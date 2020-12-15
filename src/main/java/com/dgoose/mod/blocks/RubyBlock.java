@@ -13,7 +13,5 @@ public class RubyBlock extends Block {
                 .sound(SoundType.METAL)
                 .harvestLevel(0)
                 .harvestTool(ToolType.PICKAXE));
-
-
     }
 }
