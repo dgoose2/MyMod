@@ -2,23 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    "exe",
-    "xdx",
-    "exe"
+    "fff",
+    "faf",
+    "fff"
   ],
   "key":
   {
-    "x":
+    "f":
+    {
+      "item": "tutorial:frown"
+    },
+    "a":
     {
       "item": "tutorial:ruby"
-    },
-    "d":
-    {
-      "item": "minecraft:diamond"
-    },
-    "e":
-    {
-      "item": "minecraft:emerald"
     }
   },
   "result":

@@ -4,10 +4,8 @@ import com.dgoose.mod.Tutorial;
 import com.dgoose.mod.blocks.BlockItemBase;
 import com.dgoose.mod.blocks.RubyBlock;
 import com.dgoose.mod.blocks.SmileBlock;
-import com.dgoose.mod.items.FrownItem;
 import com.dgoose.mod.items.ItemBase;
 import net.minecraft.block.Block;
-import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -30,7 +28,7 @@ public class RegistryHandler {
 
     // Items ONLY
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", ItemBase::new);
-    public static final RegistryObject<Item> FROWN = ITEMS2.register("frown", FrownItem::new);
+    public static final RegistryObject<Item> FROWN = ITEMS2.register("frown", ItemBase::new);
 
     //Blocks
     public static final RegistryObject<Block> RUBY_BLOCK = BLOCKS.register("ruby_block", RubyBlock::new);

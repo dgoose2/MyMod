@@ -38,10 +38,4 @@ public class Tutorial
             return new ItemStack(RegistryHandler.RUBY.get());
         }
     };
-    public static final ItemGroup TAB2 = new ItemGroup("test") {
-        @Override
-        public ItemStack createIcon() {
-            return new ItemStack(RegistryHandler.FROWN.get());
-        }
-    };
 }
