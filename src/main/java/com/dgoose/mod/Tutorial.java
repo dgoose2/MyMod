@@ -2,6 +2,7 @@ package com.dgoose.mod;
 
 
 import com.dgoose.mod.util.RegistryHandler;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -35,6 +36,12 @@ public class Tutorial
         @Override
         public ItemStack createIcon() {
             return new ItemStack(RegistryHandler.RUBY.get());
+        }
+    };
+    public static final ItemGroup TAB2 = new ItemGroup("test") {
+        @Override
+        public ItemStack createIcon() {
+            return new ItemStack(RegistryHandler.FROWN.get());
         }
     };
 }

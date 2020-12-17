@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "exe",
+    "xdx",
+    "exe"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "tutorial:ruby"
+    },
+    "d":
+    {
+      "item": "minecraft:diamond"
+    },
+    "e":
+    {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result":
+  {
+    "item": "tutorial:smile_block",
+    "count": 1
+  }
+}

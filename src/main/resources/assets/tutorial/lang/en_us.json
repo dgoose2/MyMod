@@ -1,5 +1,7 @@
 {
   "item.tutorial.ruby": "Ruby",
+  "item.tutorial.frown": "Frown",
   "block.tutorial.ruby_block" : "Block of Ruby",
+  "block.tutorial.smile_block": "Block of Smiles",
   "itemGroup.tutorialTab": "Tutorial"
 }
