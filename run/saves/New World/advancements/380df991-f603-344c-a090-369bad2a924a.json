@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-12-16 14:11:55 -0800"
@@ -114,6 +120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-12-16 14:11:55 -0800"
@@ -138,6 +150,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2020-12-16 14:11:55 -0800"
@@ -150,9 +174,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-12-16 14:11:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-12-20 01:00:12 -0800"
     },
     "done": true
   },
